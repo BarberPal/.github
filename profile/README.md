@@ -1,6 +1,4 @@
-# Welcome to BarberPal!
-
- 
+# Connect, Sale, Level Up!
 
 ![BarberPal Header](https://github.com/mworks-proj/barberpal-branding/blob/main/open%20graph/BPAL_V1_og.jpg)**BarberPal** is revolutionizing the barbershop industry with cutting-edge technology designed specifically for barbers and their clients. Our mission is to empower barbershops with seamless online tools that enhance customer experience and streamline business operations.
 
